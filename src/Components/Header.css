@@ -236,7 +236,50 @@
         animation-iteration-count: infinite;
       }
     
-      @keyframes poloanimation {
+      @-webkit-keyframes poloanimation {
+        0% {-webkit-background-image: url("/public/header-img/polo.svg");}
+        25% {-webkit-background-image: url("/public/header-img/polo2.svg");}
+        50% {-webkit-background-image: url("/public/header-img/polo3.svg");}
+        75% {-webkit-background-image: url("/public/header-img/polo4.svg");}
+        100% {-webkit-background-image: url("/public/header-img/polo.svg");}
+       
+    }
+    
+       @-webkit-keyframes leftanimation {
+          0% {-webkit-background-image: url("/public/header-img/left.svg");}
+          25% {-webkit-background-image: url("/public/header-img/left2.svg");}
+          50% {-webkit-background-image: url("/public/header-img/left3.svg");}
+          75% {-webkit-background-image: url("/public/header-img/left4.svg");}
+          100% {-webkit-background-image: url("/public/header-img/left.svg");}
+ 
+}
+     @-webkit-keyframes rightanimation{
+          0% {-webkit-background-image: url("/public/header-img/right.svg");}
+          25% {-webkit-background-image: url("/public/header-img/right2.svg");}
+          50% {-webkit-background-image: url("/public/header-img/right3.svg");}
+          75% {-webkit-background-image: url("/public/header-img/right4.svg");}
+          100% {-webkit-background-image: url("/public/header-img/right.svg");}
+ 
+}
+    @keyframes rightanimation {
+          0% {background-image: url("/public/header-img/right.svg");}
+          25% {background-image: url("/public/header-img/right2.svg");}
+          50% {background-image: url("/public/header-img/right3.svg");}
+          75% {background-image: url("/public/header-img/right4.svg");}
+          100% {background-image: url("/public/header-img/right.svg");}
+ 
+}
+    
+    @keyframes leftanimation {
+          0% {background-image: url("/public/header-img/left.svg");}
+          25% {background-image: url("/public/header-img/left2.svg");}
+          50% {background-image: url("/public/header-img/left3.svg");}
+          75% {background-image: url("/public/header-img/left4.svg");}
+          100% {background-image: url("/public/header-img/left.svg");}
+ 
+}
+    
+    @keyframes poloanimation {
         0% {background-image: url("/public/header-img/polo.svg");}
         25% {background-image: url("/public/header-img/polo2.svg");}
         50% {background-image: url("/public/header-img/polo3.svg");}
@@ -244,6 +287,8 @@
         100% {background-image: url("/public/header-img/polo.svg");}
        
     }
+    
+    
     
       .left-img{
    
