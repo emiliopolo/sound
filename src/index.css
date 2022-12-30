@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue','Raleway','Courier New',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(14, 23, 30);
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+
+
+}
+
+.App-header p{
+  font-family: 'Raleway', sans-serif;
+  font-weight: 200;
+
+}
+
+.ytp-pause-overlay{
+  z-index: -10;
+  opacity: 0;
+}
+
+.ytp-button{
+  z-index: -10;
+  opacity: 0;
+}
