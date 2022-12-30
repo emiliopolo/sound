@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/sound/static/css/main.b9d4857b.css",
+    "main.js": "/sound/static/js/main.ba9a54d4.js",
+    "static/js/787.5b33fcf3.chunk.js": "/sound/static/js/787.5b33fcf3.chunk.js",
+    "static/media/left4.svg": "/sound/static/media/left4.efd474b25cd1251bc7e8.svg",
+    "static/media/left3.svg": "/sound/static/media/left3.72fc13e457c3c182ebcd.svg",
+    "static/media/left2.svg": "/sound/static/media/left2.d65fd164570184a960e5.svg",
+    "static/media/right3.svg": "/sound/static/media/right3.b8444c5e9d4fc43dda6b.svg",
+    "static/media/right2.svg": "/sound/static/media/right2.42857017cf6edcdcad00.svg",
+    "static/media/right4.svg": "/sound/static/media/right4.8904bcd04116df6b3d84.svg",
+    "static/media/polo2.svg": "/sound/static/media/polo2.516212b10bf97c15c5c8.svg",
+    "static/media/polo3.svg": "/sound/static/media/polo3.60e467bc7be0b3894059.svg",
+    "static/media/polo4.svg": "/sound/static/media/polo4.1e5860ed4604010140bc.svg",
+    "static/media/polo.svg": "/sound/static/media/polo.14ffdb78dd7aa92d5e68.svg",
+    "static/media/left.svg": "/sound/static/media/left.4a8cc2a0ed6cfa499a8f.svg",
+    "static/media/right.svg": "/sound/static/media/right.aa2028568a5d4ec293ce.svg",
+    "index.html": "/sound/index.html",
+    "main.b9d4857b.css.map": "/sound/static/css/main.b9d4857b.css.map",
+    "main.ba9a54d4.js.map": "/sound/static/js/main.ba9a54d4.js.map",
+    "787.5b33fcf3.chunk.js.map": "/sound/static/js/787.5b33fcf3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9d4857b.css",
+    "static/js/main.ba9a54d4.js"
+  ]
+}
