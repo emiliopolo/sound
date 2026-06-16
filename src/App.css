@@ -65,9 +65,19 @@
   filter: invert(.1);
 }
 
-.tileImg-portrait{
-  object-fit: contain;
+.tileImgPortraitWrapper{
+  width: 100%;
+  aspect-ratio: 16 / 9;
   background-color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.tileImgPortrait{
+  height: 100%;
+  width: auto;
 }
 
 

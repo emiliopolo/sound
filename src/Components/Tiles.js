@@ -40,7 +40,13 @@ const Tiles = (props) => {
             )}
 
             <div className="tileContainer" onClick={showContent}>
-                <img className={props.portrait ? "tileImg tileImg-portrait" : "tileImg"} src={props.source} loading="lazy"/>
+                {props.portrait ? (
+                    <div className="tileImgPortraitWrapper">
+                        <img className="tileImgPortrait" src={props.source} loading="lazy"/>
+                    </div>
+                ) : (
+                    <img className="tileImg" src={props.source} loading="lazy"/>
+                )}
                 <h2 className="title-text">{props.title}</h2>
                 <h3 className='role'>{props.role}</h3>
                 <h3 className="genre">{props.genre}</h3>
