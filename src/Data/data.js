@@ -76,7 +76,7 @@ export const data =[
 
     {
         "id": 9,
-        "img":"https://img.youtube.com/vi/A8TytMr4g2A/maxresdefault.jpg",
+        "img":"https://img.youtube.com/vi/A8TytMr4g2A/hqdefault.jpg",
         "title":"Radiate Kombucha | 30 sec Ad Spot | NBA Finals | Spotlight.online Winner",
         "genre":"(Commercial)",
         "video":"https://www.youtube.com/embed/A8TytMr4g2A",
