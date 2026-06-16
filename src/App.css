@@ -66,8 +66,7 @@
 }
 
 .tileImg-portrait{
-  object-fit: contain;
-  background-color: black;
+  object-fit: cover;
 }
 
 
