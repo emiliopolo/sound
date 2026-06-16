@@ -183,5 +183,15 @@ export const data =[
         "video":"https://player.vimeo.com/video/877748551",
         "role":"Sound Mixer / Sound Designer",
         "description":"The 48 Hour Film Project (1st place: Best Film of 2023)"
+    },
+
+    {
+        "id": 20,
+        "img":"https://img.youtube.com/vi/GWlXRTfNw2I/hqdefault.jpg",
+        "title":"Young People, Big Dreams",
+        "genre":"(Short Film)",
+        "video":"https://www.youtube.com/embed/GWlXRTfNw2I",
+        "role":"Sound Mixer",
+        "description":"A comedy. Sort of. Nine after-hours strangers and one restless camera cross paths in Miami, tracing a generation stuck between surviving and living. Structured around the four stages of grief, the film drifts from diner meltdowns to surreal fantasies set aglow by 3AM Miami neon. A clown-vampire confession, a kid philosopher, even a therapy app that won't listen. Funny, tender, and a little too honest, it looks at dead-end work, identity, and the frayed myth of the American Dream."
     }
 ]
