@@ -122,5 +122,15 @@ export const data =[
         "video":"https://www.youtube.com/embed/lEMc8PLZIEQ",
         "role":"Sound Mixer",
         "description":"Singer-songwriters Asha Puthli and Raveena Aurora talk through their musical journeys, inspirations, challenges, spirit worlds, Punjabi sci-fi princesses, resistance and racism — all while discussing the latter's newest album Asha's Awakening."
+    },
+
+    {
+        "id": 14,
+        "img":"https://img.youtube.com/vi/VSFXhakiFCw/hqdefault.jpg",
+        "title":"Know Me Trailer",
+        "genre":"(Drama)",
+        "video":"https://www.youtube.com/embed/VSFXhakiFCw",
+        "role":"Boom Operator",
+        "description":"It's May 2012. Jimmy Hilaire attacked a homeless man on the MacArthur Causeway in Miami before being killed by police. As sensationalized details of the attack leak to the press, the \"Miami Zombie\" news story quickly gains ground."
     }
 ]
