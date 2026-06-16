@@ -25,7 +25,8 @@ const Tiles = (props) => {
     return (
         <div className="tiles" id={props.id} >
 
-            <div className= {content? "show" : "hide"} id="project">
+            {content && (
+            <div className="show" id="project">
                 <div className="close" onClick={showContent}>&#x2715;</div>
                 <div className='project-container'>
                     <Project
@@ -33,13 +34,13 @@ const Tiles = (props) => {
                       title={props.title}
                       role={props.role}
                       video={props.video}
-                      
                     />
                 </div>
             </div>
+            )}
 
             <div className="tileContainer" onClick={showContent}>
-                <img className="tileImg" src={props.source}/>
+                <img className="tileImg" src={props.source} loading="lazy"/>
                 <h2 className="title-text">{props.title}</h2>
                 <h3 className='role'>{props.role}</h3>
                 <h3 className="genre">{props.genre}</h3>
