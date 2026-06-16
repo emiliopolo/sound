@@ -102,5 +102,15 @@ export const data =[
         "video":"https://www.youtube.com/embed/BggdJLnSevQ",
         "role":"Sound Mixer",
         "description":"Iron Maiden: Burning Ambition explores how Iron Maiden has helped shape a cultural movement, challenging conventional views of rock music and heavy metal's broader impact on society and culture. Featuring interviews with the band and contributors such as Javier Bardem, Lars Ulrich, and Chuck D, this electrifying film offers an intimate look at their uncompromising vision and unwavering connection with their global army of fans."
+    },
+
+    {
+        "id": 12,
+        "img":"https://img.youtube.com/vi/KZESON4XoHI/hqdefault.jpg",
+        "title":"Cassius Ep 1 & 2",
+        "genre":"(Fiction)",
+        "video":"https://www.youtube.com/embed/KZESON4XoHI",
+        "role":"Sound Mixer",
+        "description":"CASSIUS is a bold new TV show following one man's quest to become a legendary filmmaker while navigating the dating scene in Miami — think a younger, sexier take on Curb Your Enthusiasm and Seinfeld."
     }
 ]
