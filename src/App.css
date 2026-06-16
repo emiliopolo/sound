@@ -54,13 +54,14 @@
 
 .tileImg{
   width: 100%;
-  /* filter: grayscale(0%); */
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  object-position: center;
   filter: invert(0);
 }
 
 .tileImg:hover{
   width: 100%;
-  /* filter: grayscale(100%); */
   filter: invert(.1);
 }
 
