@@ -82,5 +82,15 @@ export const data =[
         "video":"https://www.youtube.com/embed/A8TytMr4g2A",
         "role":"Sound Mixer",
         "description":"TV commercial for Radiate Kombucha aired at the NBA Finals, winners of the Spotlight.online contest. A vibrant 30-second spot capturing the brand's refreshing energy and vibrancy."
+    },
+
+    {
+        "id": 10,
+        "img":"https://img.youtube.com/vi/4q7JH1XgXNk/hqdefault.jpg",
+        "title":"Long Story Short: Alexandre Pantoja | EPISÓDIO COMPLETO | UFC",
+        "genre":"(Documentary)",
+        "video":"https://www.youtube.com/embed/4q7JH1XgXNk",
+        "role":"Sound Mixer",
+        "description":"The only current Brazilian UFC champion, Alexandre Pantoja tells his story of trials in search of recognition from his absent father — a family man ready to become world champion just to impress the woman of his life."
     }
 ]
