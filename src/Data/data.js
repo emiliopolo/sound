@@ -132,5 +132,15 @@ export const data =[
         "video":"https://www.youtube.com/embed/VSFXhakiFCw",
         "role":"Boom Operator",
         "description":"It's May 2012. Jimmy Hilaire attacked a homeless man on the MacArthur Causeway in Miami before being killed by police. As sensationalized details of the attack leak to the press, the \"Miami Zombie\" news story quickly gains ground."
+    },
+
+    {
+        "id": 15,
+        "img":"https://img.youtube.com/vi/P_yeWY0b_RE/hqdefault.jpg",
+        "title":"Ethan Bloom",
+        "genre":"(Comedy-Drama)",
+        "video":"https://www.youtube.com/embed/P_yeWY0b_RE",
+        "role":"Boom Operator",
+        "description":"Thirteen-year-old Ethan is supposed to be preparing for his bar mitzvah — but despite his Jewish family, Ethan is convinced his spiritual calling is with the Catholic church, where he secretly finds solace under the guidance of Father Diaz (Carlos Ponce). Through the wisdom of an unconventional rabbi (Rachelle Lefevre), the love of his complicated father (Joshua Malina), and his first romance with a cowboy-boot-wearing girl who can put him in a headlock, Ethan must confront his lies and grief to discover that faith isn't about choosing sides — it's about honoring all the messy, beautiful pieces of who we are."
     }
 ]
