@@ -72,5 +72,15 @@ export const data =[
         "video":"https://www.youtube.com/embed/ukocG2MTEY8",
         "role":"Sound Mixer and Score Composer",
         "description":"Cuban fishermen attempt to balance their life source with environmental changes"
+    },
+
+    {
+        "id": 9,
+        "img":"https://img.youtube.com/vi/A8TytMr4g2A/maxresdefault.jpg",
+        "title":"Radiate Kombucha | 30 sec Ad Spot | NBA Finals | Spotlight.online Winner",
+        "genre":"(Commercial)",
+        "video":"https://www.youtube.com/embed/A8TytMr4g2A",
+        "role":"Sound Mixer",
+        "description":"TV commercial for Radiate Kombucha aired at the NBA Finals, winners of the Spotlight.online contest. A vibrant 30-second spot capturing the brand's refreshing energy and vibrancy."
     }
 ]
