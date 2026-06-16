@@ -176,7 +176,8 @@ export const data =[
 
     {
         "id": 19,
-        "img":"https://i.vimeocdn.com/video/1743412934-72a5606961c5bc88a90439862db4961382637ca724c7a0afd5104c02a346eba4-d_640?region=us",
+        "img":"images/19.png",
+        "portrait": true,
         "title":"The Sad Song of Lolita",
         "genre":"(Fiction)",
         "video":"https://player.vimeo.com/video/877748551",

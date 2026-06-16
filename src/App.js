@@ -30,8 +30,7 @@ const App = () => {
                 description={data.description}
                 source = {data.img}
                 video = {data.video}
-  
-
+                portrait = {data.portrait}
               />
           
           );

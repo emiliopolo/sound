@@ -65,6 +65,11 @@
   filter: invert(.1);
 }
 
+.tileImg-portrait{
+  object-fit: contain;
+  background-color: black;
+}
+
 
 .title-text{
   font-size: 2rem;
