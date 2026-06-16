@@ -18,6 +18,7 @@ export const data =[
         "role":"Sound Mixer",
         "description":"Inspired by Gandhi, Dnyan aims to spread peace, love, and compassion wherever he goes by meeting as many people as he can, learning from them, and sharing what he knows about the world."
     },
+
     {
         "id": 3,
         "img":"images/3.png",
@@ -27,6 +28,7 @@ export const data =[
         "role":"Sound Mixer",
         "description":"Eyeife Festival is an electronic music festival in Havana, Cuba. As well as bringing in a lineup of international DJs, a key aim of the festival is to shine a light on the contemporary Cuban artists that form part of the country's vibrant underground and flourishing electronic music scene."
     },
+
     {
         "id": 4,
         "img":"images/4.png",
@@ -34,9 +36,9 @@ export const data =[
         "genre":"(Interview)",
         "video":"https://www.youtube.com/embed/OCNfwkJuDFc",
         "role":"Sound Mixer",
-        "description":" Interview with Leo Brouwer. Why does Brouwer’s music stick out so distinctly from that of his contemporaries? How does the Maestro hear his music and intend it to be played? What path should young, inspired musicians take to pursue as successful a career as he has achieved?" 
-        
+        "description":" Interview with Leo Brouwer. Why does Brouwer's music stick out so distinctly from that of his contemporaries? How does the Maestro hear his music and intend it to be played? What path should young, inspired musicians take to pursue as successful a career as he has achieved?"
     },
+
     {
         "id": 5,
         "img":"images/5.png",
@@ -46,6 +48,7 @@ export const data =[
         "role":"Sound Mixer and Dialogue editor",
         "description":"A family speaks of the past and dances with their sorrows. The morning brings a strange visitor carrying a cage."
     },
+
     {
         "id": 6,
         "img":"images/6.png",
@@ -55,6 +58,7 @@ export const data =[
         "role":"Sound Designer and Score Composer",
         "description":"The Slaughterhouse presents the failure of the revolutionary program, the demagogy of his triumphalist discourse, the precariousness to which the individual's daily life is subjected as a result of the economic conditions of a society project in absolute decline."
     },
+
     {
         "id": 7,
         "img":"images/7.png",
@@ -64,6 +68,7 @@ export const data =[
         "role":"Sound Mixer",
         "description":"Mario, a fourty years old man, desenchanted, is afraid for his life. A serial killer beheads his partners and slowly get near. As height, he found the seventh head; with his partner Camacho have to take ir to the station. It which seems like easy work is getting hard... the thift of the \"policial organ\" would take them to the \"El Sueco\" hunt, habanero underground king and owner of \"El Casino\"."
     },
+
     {
         "id": 8,
         "img":"images/8.png",
@@ -126,36 +131,6 @@ export const data =[
 
     {
         "id": 14,
-        "img":"https://img.youtube.com/vi/VSFXhakiFCw/hqdefault.jpg",
-        "title":"Know Me",
-        "genre":"(Drama)",
-        "video":"https://www.youtube.com/embed/VSFXhakiFCw",
-        "role":"Boom Operator",
-        "description":"It's May 2012. Jimmy Hilaire attacked a homeless man on the MacArthur Causeway in Miami before being killed by police. As sensationalized details of the attack leak to the press, the \"Miami Zombie\" news story quickly gains ground."
-    },
-
-    {
-        "id": 15,
-        "img":"https://img.youtube.com/vi/P_yeWY0b_RE/hqdefault.jpg",
-        "title":"Ethan Bloom",
-        "genre":"(Comedy-Drama)",
-        "video":"https://www.youtube.com/embed/P_yeWY0b_RE",
-        "role":"Boom Operator",
-        "description":"Thirteen-year-old Ethan is supposed to be preparing for his bar mitzvah — but despite his Jewish family, Ethan is convinced his spiritual calling is with the Catholic church, where he secretly finds solace under the guidance of Father Diaz (Carlos Ponce). Through the wisdom of an unconventional rabbi (Rachelle Lefevre), the love of his complicated father (Joshua Malina), and his first romance with a cowboy-boot-wearing girl who can put him in a headlock, Ethan must confront his lies and grief to discover that faith isn't about choosing sides — it's about honoring all the messy, beautiful pieces of who we are."
-    },
-
-    {
-        "id": 16,
-        "img":"https://img.youtube.com/vi/drJD43vgLnM/hqdefault.jpg",
-        "title":"Mountains",
-        "genre":"(Drama)",
-        "video":"https://www.youtube.com/embed/drJD43vgLnM",
-        "role":"Boom Operator",
-        "description":"A Haitian demolition worker is faced with the realities of redevelopment as he is tasked with dismantling his rapidly gentrifying neighborhood."
-    },
-
-    {
-        "id": 17,
         "img":"https://img.youtube.com/vi/dPR0XlMd1Us/hqdefault.jpg",
         "title":"Marc Anthony's Muevense: Creative Conversations with Lin-Manuel Miranda",
         "genre":"(Interview)",
@@ -165,7 +140,7 @@ export const data =[
     },
 
     {
-        "id": 18,
+        "id": 15,
         "img":"https://img.youtube.com/vi/xV4pAtesbKY/hqdefault.jpg",
         "title":"The Time is Now: Building a Healthier, Brighter Future Together",
         "genre":"(Interview)",
@@ -175,7 +150,7 @@ export const data =[
     },
 
     {
-        "id": 19,
+        "id": 16,
         "img":"images/19.png",
         "portrait": true,
         "title":"The Sad Song of Lolita",
@@ -186,7 +161,7 @@ export const data =[
     },
 
     {
-        "id": 20,
+        "id": 17,
         "img":"https://img.youtube.com/vi/GWlXRTfNw2I/hqdefault.jpg",
         "title":"Young People, Big Dreams",
         "genre":"(Short Film)",
@@ -196,12 +171,42 @@ export const data =[
     },
 
     {
-        "id": 21,
+        "id": 18,
         "img":"https://img.youtube.com/vi/WRWlg2S5Uhs/hqdefault.jpg",
         "title":"Jay Wheeler - TRAPPii Visual Album (Official Video)",
         "genre":"(Music Video - Visual Album)",
         "video":"https://www.youtube.com/embed/WRWlg2S5Uhs",
         "role":"Sound Mixer",
         "description":"Official Visual Album by Jay Wheeler - \"TRAPPii\" © 2023 Linked Music / Dynamic Records / EMPIRE"
+    },
+
+    {
+        "id": 19,
+        "img":"https://img.youtube.com/vi/VSFXhakiFCw/hqdefault.jpg",
+        "title":"Know Me",
+        "genre":"(Drama)",
+        "video":"https://www.youtube.com/embed/VSFXhakiFCw",
+        "role":"Boom Operator",
+        "description":"It's May 2012. Jimmy Hilaire attacked a homeless man on the MacArthur Causeway in Miami before being killed by police. As sensationalized details of the attack leak to the press, the \"Miami Zombie\" news story quickly gains ground."
+    },
+
+    {
+        "id": 20,
+        "img":"https://img.youtube.com/vi/P_yeWY0b_RE/hqdefault.jpg",
+        "title":"Ethan Bloom",
+        "genre":"(Comedy-Drama)",
+        "video":"https://www.youtube.com/embed/P_yeWY0b_RE",
+        "role":"Boom Operator",
+        "description":"Thirteen-year-old Ethan is supposed to be preparing for his bar mitzvah — but despite his Jewish family, Ethan is convinced his spiritual calling is with the Catholic church, where he secretly finds solace under the guidance of Father Diaz (Carlos Ponce). Through the wisdom of an unconventional rabbi (Rachelle Lefevre), the love of his complicated father (Joshua Malina), and his first romance with a cowboy-boot-wearing girl who can put him in a headlock, Ethan must confront his lies and grief to discover that faith isn't about choosing sides — it's about honoring all the messy, beautiful pieces of who we are."
+    },
+
+    {
+        "id": 21,
+        "img":"https://img.youtube.com/vi/drJD43vgLnM/hqdefault.jpg",
+        "title":"Mountains",
+        "genre":"(Drama)",
+        "video":"https://www.youtube.com/embed/drJD43vgLnM",
+        "role":"Boom Operator",
+        "description":"A Haitian demolition worker is faced with the realities of redevelopment as he is tasked with dismantling his rapidly gentrifying neighborhood."
     }
 ]
