@@ -193,5 +193,15 @@ export const data =[
         "video":"https://www.youtube.com/embed/GWlXRTfNw2I",
         "role":"Sound Mixer",
         "description":"A comedy. Sort of. Nine after-hours strangers and one restless camera cross paths in Miami, tracing a generation stuck between surviving and living. Structured around the four stages of grief, the film drifts from diner meltdowns to surreal fantasies set aglow by 3AM Miami neon. A clown-vampire confession, a kid philosopher, even a therapy app that won't listen. Funny, tender, and a little too honest, it looks at dead-end work, identity, and the frayed myth of the American Dream."
+    },
+
+    {
+        "id": 21,
+        "img":"https://img.youtube.com/vi/WRWlg2S5Uhs/hqdefault.jpg",
+        "title":"Jay Wheeler - TRAPPii Visual Album (Official Video)",
+        "genre":"(Music Video)",
+        "video":"https://www.youtube.com/embed/WRWlg2S5Uhs",
+        "role":"Sound Mixer",
+        "description":"Official Visual Album by Jay Wheeler - \"TRAPPii\" © 2023 Linked Music / Dynamic Records / EMPIRE"
     }
 ]
