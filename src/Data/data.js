@@ -199,7 +199,7 @@ export const data =[
         "id": 21,
         "img":"https://img.youtube.com/vi/WRWlg2S5Uhs/hqdefault.jpg",
         "title":"Jay Wheeler - TRAPPii Visual Album (Official Video)",
-        "genre":"(Music Video)",
+        "genre":"(Music Video - Visual Album)",
         "video":"https://www.youtube.com/embed/WRWlg2S5Uhs",
         "role":"Sound Mixer",
         "description":"Official Visual Album by Jay Wheeler - \"TRAPPii\" © 2023 Linked Music / Dynamic Records / EMPIRE"
