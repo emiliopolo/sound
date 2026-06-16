@@ -181,6 +181,16 @@ export const data =[
     },
 
     {
+        "id": 23,
+        "img":"https://img.youtube.com/vi/La-gWQNcqS4/hqdefault.jpg",
+        "title":"Material 35 Años Jazz Plaza",
+        "genre":"(Documentary - Promotional)",
+        "video":"https://www.youtube.com/embed/La-gWQNcqS4",
+        "role":"Sound Mixer",
+        "description":"Promotional material for the 35th anniversary of the Jazz Plaza festival, held in Havana, Cuba in 2021."
+    },
+
+    {
         "id": 22,
         "img":"https://img.youtube.com/vi/ozHGRL4TfYk/hqdefault.jpg",
         "title":"Michelangelo Pistoletto: El tercer paraíso - Performance at 12th Havana Biennial",
