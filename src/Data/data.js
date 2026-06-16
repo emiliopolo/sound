@@ -184,7 +184,7 @@ export const data =[
         "id": 22,
         "img":"https://img.youtube.com/vi/ozHGRL4TfYk/hqdefault.jpg",
         "title":"Michelangelo Pistoletto: El tercer paraíso - Performance at 12th Havana Biennial",
-        "genre":"(Documentary)",
+        "genre":"(Promotional)",
         "video":"https://www.youtube.com/embed/ozHGRL4TfYk",
         "role":"Sound Mixer",
         "description":"The Performance \"El tercer paraíso\" by Michelangelo Pistoletto at 12th Havana Biennial, 23rd May 2015. Curated by Galleria Continua with Luis Vuitton."
