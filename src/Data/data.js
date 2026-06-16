@@ -92,5 +92,15 @@ export const data =[
         "video":"https://www.youtube.com/embed/4q7JH1XgXNk",
         "role":"Sound Mixer",
         "description":"The only current Brazilian UFC champion, Alexandre Pantoja tells his story of trials in search of recognition from his absent father — a family man ready to become world champion just to impress the woman of his life."
+    },
+
+    {
+        "id": 11,
+        "img":"https://img.youtube.com/vi/BggdJLnSevQ/hqdefault.jpg",
+        "title":"Iron Maiden: Burning Ambition",
+        "genre":"(Documentary)",
+        "video":"https://www.youtube.com/embed/BggdJLnSevQ",
+        "role":"Sound Mixer",
+        "description":"Iron Maiden: Burning Ambition explores how Iron Maiden has helped shape a cultural movement, challenging conventional views of rock music and heavy metal's broader impact on society and culture. Featuring interviews with the band and contributors such as Javier Bardem, Lars Ulrich, and Chuck D, this electrifying film offers an intimate look at their uncompromising vision and unwavering connection with their global army of fans."
     }
 ]
