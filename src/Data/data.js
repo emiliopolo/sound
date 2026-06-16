@@ -127,7 +127,7 @@ export const data =[
     {
         "id": 14,
         "img":"https://img.youtube.com/vi/VSFXhakiFCw/hqdefault.jpg",
-        "title":"Know Me Trailer",
+        "title":"Know Me",
         "genre":"(Drama)",
         "video":"https://www.youtube.com/embed/VSFXhakiFCw",
         "role":"Boom Operator",
