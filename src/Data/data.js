@@ -172,5 +172,15 @@ export const data =[
         "video":"https://www.youtube.com/embed/xV4pAtesbKY",
         "role":"Sound Mixer",
         "description":"In Saint Rock, Haiti, providing quality health care and education are transforming lives in real-time. From the first brick of our new school campus to the rising walls of our maternal waiting home, the landscape of our community is changing for the better."
+    },
+
+    {
+        "id": 19,
+        "img":"https://i.vimeocdn.com/video/1743412934-72a5606961c5bc88a90439862db4961382637ca724c7a0afd5104c02a346eba4-d_640?region=us",
+        "title":"The Sad Song of Lolita",
+        "genre":"(Fiction)",
+        "video":"https://player.vimeo.com/video/877748551",
+        "role":"Sound Mixer / Sound Designer",
+        "description":"The 48 Hour Film Project (1st place: Best Film of 2023)"
     }
 ]
