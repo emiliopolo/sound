@@ -158,7 +158,7 @@ export const data =[
         "id": 17,
         "img":"https://img.youtube.com/vi/dPR0XlMd1Us/hqdefault.jpg",
         "title":"Marc Anthony's Muevense: Creative Conversations with Lin-Manuel Miranda",
-        "genre":"(Documentary)",
+        "genre":"(Interview)",
         "video":"https://www.youtube.com/embed/dPR0XlMd1Us",
         "role":"Sound Mixer",
         "description":"An unforgettable journey behind the scenes of Marc Anthony's latest album, MUEVENSE. In this special documentary, Marc Anthony sits down with Lin-Manuel Miranda for an honest and intimate conversation about his creative process, the evolution of his stage personas, and the magic of making music. Step into the studio and see how MUEVENSE came to life — celebrating the passion and artistry that drive Marc Anthony every day. This is more than an album — it's a piece of his soul."
