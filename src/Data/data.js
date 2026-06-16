@@ -112,5 +112,15 @@ export const data =[
         "video":"https://www.youtube.com/embed/KZESON4XoHI",
         "role":"Sound Mixer",
         "description":"CASSIUS is a bold new TV show following one man's quest to become a legendary filmmaker while navigating the dating scene in Miami — think a younger, sexier take on Curb Your Enthusiasm and Seinfeld."
+    },
+
+    {
+        "id": 13,
+        "img":"https://img.youtube.com/vi/lEMc8PLZIEQ/hqdefault.jpg",
+        "title":"Asha Puthli & Raveena Aurora Talk Musical Styles, Punjabi Sci-Fi Princesses & More | Vogue India",
+        "genre":"(Interview)",
+        "video":"https://www.youtube.com/embed/lEMc8PLZIEQ",
+        "role":"Sound Mixer",
+        "description":"Singer-songwriters Asha Puthli and Raveena Aurora talk through their musical journeys, inspirations, challenges, spirit worlds, Punjabi sci-fi princesses, resistance and racism — all while discussing the latter's newest album Asha's Awakening."
     }
 ]
