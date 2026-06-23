@@ -32,6 +32,26 @@ export const data =[
 
     {
         "id": 4,
+        "img":"https://img.youtube.com/vi/4cvdX2KQRlI/hqdefault.jpg",
+        "title":"Dj Khaled Tommy Hilfiger We The Best",
+        "genre":"(Advertisement)",
+        "video":"https://www.youtube.com/embed/4cvdX2KQRlI",
+        "role":"Sound Mixer",
+        "description":"Promotional video for the collaboration between Dj Khaled and Tommy Hilfiger."
+    },
+
+    {
+        "id": 5,
+        "img":"https://img.youtube.com/vi/rmhaYk0baXQ/hqdefault.jpg",
+        "title":"Momentos Starbucks con Fredo y el crew",
+        "genre":"(Advertisement)",
+        "video":"https://www.youtube.com/embed/rmhaYk0baXQ",
+        "role":"Sound Mixer",
+        "description":"Starbucks promotional video for the 25th anniversary of the Latin Grammys."
+    },
+
+    {
+        "id": 6,
         "img":"https://img.youtube.com/vi/lEMc8PLZIEQ/hqdefault.jpg",
         "title":"Asha Puthli & Raveena Aurora Talk Musical Styles, Punjabi Sci-Fi Princesses & More | Vogue India",
         "genre":"(Interview)",
@@ -41,7 +61,7 @@ export const data =[
     },
 
     {
-        "id": 5,
+        "id": 7,
         "img":"https://img.youtube.com/vi/4q7JH1XgXNk/hqdefault.jpg",
         "title":"Long Story Short: Alexandre Pantoja | EPISÓDIO COMPLETO | UFC",
         "genre":"(Documentary)",
@@ -51,7 +71,7 @@ export const data =[
     },
 
     {
-        "id": 6,
+        "id": 8,
         "img":"https://img.youtube.com/vi/A8TytMr4g2A/hqdefault.jpg",
         "title":"Radiate Kombucha | 30 sec Ad Spot | NBA Finals | Spotlight.online Winner",
         "genre":"(Commercial)",
@@ -61,7 +81,27 @@ export const data =[
     },
 
     {
-        "id": 7,
+        "id": 9,
+        "img":"https://img.youtube.com/vi/OnYCBfulLNQ/hqdefault.jpg",
+        "title":"Djeep Lighters Dj Khaled Ignite your Passion",
+        "genre":"(Advertisement)",
+        "video":"https://www.youtube.com/embed/OnYCBfulLNQ",
+        "role":"Sound Mixer",
+        "description":"Included video in the Djeep packaging for new users. It features Dj Khaled and serves as an introduction to the brand. No product demonstration — just a welcome message."
+    },
+
+    {
+        "id": 10,
+        "img":"https://img.youtube.com/vi/ZBsKQ2S0_ZM/hqdefault.jpg",
+        "title":"TopSpin 2K25",
+        "genre":"(Advertisement)",
+        "video":"https://www.youtube.com/embed/ZBsKQ2S0_ZM",
+        "role":"Sound Mixer",
+        "description":"Ad for the PlayStation game TopSpin 2K25."
+    },
+
+    {
+        "id": 11,
         "img":"images/19.png",
         "portrait": true,
         "title":"The Sad Song of Lolita",
@@ -72,7 +112,7 @@ export const data =[
     },
 
     {
-        "id": 8,
+        "id": 12,
         "img":"images/1.png",
         "title":"Dreams Adrift (Sueños al Pairo)",
         "genre":"(Documentary)",
@@ -82,7 +122,7 @@ export const data =[
     },
 
     {
-        "id": 9,
+        "id": 13,
         "img":"images/6.png",
         "title":"The Slaughterhouse (El Matadero)",
         "genre":"(Documentary)",
@@ -92,7 +132,7 @@ export const data =[
     },
 
     {
-        "id": 10,
+        "id": 14,
         "img":"images/8.png",
         "title":"Fifth List (Lista Quinta)",
         "genre":"(Documentary)",
@@ -102,7 +142,7 @@ export const data =[
     },
 
     {
-        "id": 11,
+        "id": 15,
         "img":"https://img.youtube.com/vi/GWlXRTfNw2I/hqdefault.jpg",
         "title":"Young People, Big Dreams",
         "genre":"(Short Film)",
@@ -112,53 +152,13 @@ export const data =[
     },
 
     {
-        "id": 12,
+        "id": 16,
         "img":"images/5.png",
         "title":"The Rodeo (El Rodeo)",
         "genre":"(Fiction)",
         "video":"https://www.youtube.com/embed/-pgFM-XC7Us",
         "role":"Sound Mixer and Dialogue editor",
         "description":"A family speaks of the past and dances with their sorrows. The morning brings a strange visitor carrying a cage."
-    },
-
-    {
-        "id": 13,
-        "img":"images/2.png",
-        "title":"Search On (Episode 9): Pedaling for Peace",
-        "genre":"(Documentary)",
-        "video":"https://www.youtube.com/embed/YgaWA9WkOv0",
-        "role":"Sound Mixer",
-        "description":"Inspired by Gandhi, Dnyan aims to spread peace, love, and compassion wherever he goes by meeting as many people as he can, learning from them, and sharing what he knows about the world."
-    },
-
-    {
-        "id": 14,
-        "img":"images/3.png",
-        "title":"Eyeife Festival 2019",
-        "genre":"(Documentary)",
-        "video":"https://www.youtube.com/embed/i0wmzKLIIDw",
-        "role":"Sound Mixer",
-        "description":"Eyeife Festival is an electronic music festival in Havana, Cuba. As well as bringing in a lineup of international DJs, a key aim of the festival is to shine a light on the contemporary Cuban artists that form part of the country's vibrant underground and flourishing electronic music scene."
-    },
-
-    {
-        "id": 15,
-        "img":"images/4.png",
-        "title":"Leo Brouwer on his life with music & the classical guitar",
-        "genre":"(Interview)",
-        "video":"https://www.youtube.com/embed/OCNfwkJuDFc",
-        "role":"Sound Mixer",
-        "description":" Interview with Leo Brouwer. Why does Brouwer's music stick out so distinctly from that of his contemporaries? How does the Maestro hear his music and intend it to be played? What path should young, inspired musicians take to pursue as successful a career as he has achieved?"
-    },
-
-    {
-        "id": 16,
-        "img":"images/7.png",
-        "title":"Dryland (El Secadero)",
-        "genre":"(Fiction)",
-        "video":"https://www.youtube.com/embed/qtCoLZ1dzgk",
-        "role":"Sound Mixer",
-        "description":"Mario, a fourty years old man, desenchanted, is afraid for his life. A serial killer beheads his partners and slowly get near. As height, he found the seventh head; with his partner Camacho have to take ir to the station. It which seems like easy work is getting hard... the thift of the \"policial organ\" would take them to the \"El Sueco\" hunt, habanero underground king and owner of \"El Casino\"."
     },
 
     {
@@ -173,26 +173,46 @@ export const data =[
 
     {
         "id": 18,
-        "img":"https://img.youtube.com/vi/xV4pAtesbKY/hqdefault.jpg",
-        "title":"The Time is Now: Building a Healthier, Brighter Future Together",
-        "genre":"(Interview)",
-        "video":"https://www.youtube.com/embed/xV4pAtesbKY",
+        "img":"images/2.png",
+        "title":"Search On (Episode 9): Pedaling for Peace",
+        "genre":"(Documentary)",
+        "video":"https://www.youtube.com/embed/YgaWA9WkOv0",
         "role":"Sound Mixer",
-        "description":"In Saint Rock, Haiti, providing quality health care and education are transforming lives in real-time. From the first brick of our new school campus to the rising walls of our maternal waiting home, the landscape of our community is changing for the better."
+        "description":"Inspired by Gandhi, Dnyan aims to spread peace, love, and compassion wherever he goes by meeting as many people as he can, learning from them, and sharing what he knows about the world."
     },
 
     {
         "id": 19,
-        "img":"https://img.youtube.com/vi/La-gWQNcqS4/hqdefault.jpg",
-        "title":"Material 35 Años Jazz Plaza",
-        "genre":"(Documentary - Promotional)",
-        "video":"https://www.youtube.com/embed/La-gWQNcqS4",
+        "img":"images/3.png",
+        "title":"Eyeife Festival 2019",
+        "genre":"(Documentary)",
+        "video":"https://www.youtube.com/embed/i0wmzKLIIDw",
         "role":"Sound Mixer",
-        "description":"Promotional material for the 35th anniversary of the Jazz Plaza festival, held in Havana, Cuba in 2021."
+        "description":"Eyeife Festival is an electronic music festival in Havana, Cuba. As well as bringing in a lineup of international DJs, a key aim of the festival is to shine a light on the contemporary Cuban artists that form part of the country's vibrant underground and flourishing electronic music scene."
     },
 
     {
         "id": 20,
+        "img":"images/4.png",
+        "title":"Leo Brouwer on his life with music & the classical guitar",
+        "genre":"(Interview)",
+        "video":"https://www.youtube.com/embed/OCNfwkJuDFc",
+        "role":"Sound Mixer",
+        "description":" Interview with Leo Brouwer. Why does Brouwer's music stick out so distinctly from that of his contemporaries? How does the Maestro hear his music and intend it to be played? What path should young, inspired musicians take to pursue as successful a career as he has achieved?"
+    },
+
+    {
+        "id": 21,
+        "img":"images/7.png",
+        "title":"Dryland (El Secadero)",
+        "genre":"(Fiction)",
+        "video":"https://www.youtube.com/embed/qtCoLZ1dzgk",
+        "role":"Sound Mixer",
+        "description":"Mario, a fourty years old man, desenchanted, is afraid for his life. A serial killer beheads his partners and slowly get near. As height, he found the seventh head; with his partner Camacho have to take ir to the station. It which seems like easy work is getting hard... the thift of the \"policial organ\" would take them to the \"El Sueco\" hunt, habanero underground king and owner of \"El Casino\"."
+    },
+
+    {
+        "id": 22,
         "img":"https://img.youtube.com/vi/ozHGRL4TfYk/hqdefault.jpg",
         "title":"Michelangelo Pistoletto: El tercer paraíso - Performance at 12th Havana Biennial",
         "genre":"(Promotional)",
@@ -202,37 +222,27 @@ export const data =[
     },
 
     {
-        "id": 24,
-        "img":"https://img.youtube.com/vi/4cvdX2KQRlI/hqdefault.jpg",
-        "title":"Dj Khaled Tommy Hilfiger We The Best",
-        "genre":"(Advertisement)",
-        "video":"https://www.youtube.com/embed/4cvdX2KQRlI",
+        "id": 23,
+        "img":"https://img.youtube.com/vi/xV4pAtesbKY/hqdefault.jpg",
+        "title":"The Time is Now: Building a Healthier, Brighter Future Together",
+        "genre":"(Interview)",
+        "video":"https://www.youtube.com/embed/xV4pAtesbKY",
         "role":"Sound Mixer",
-        "description":"Promotional video for the collaboration between Dj Khaled and Tommy Hilfiger."
+        "description":"In Saint Rock, Haiti, providing quality health care and education are transforming lives in real-time. From the first brick of our new school campus to the rising walls of our maternal waiting home, the landscape of our community is changing for the better."
+    },
+
+    {
+        "id": 24,
+        "img":"https://img.youtube.com/vi/La-gWQNcqS4/hqdefault.jpg",
+        "title":"Material 35 Años Jazz Plaza",
+        "genre":"(Documentary - Promotional)",
+        "video":"https://www.youtube.com/embed/La-gWQNcqS4",
+        "role":"Sound Mixer",
+        "description":"Promotional material for the 35th anniversary of the Jazz Plaza festival, held in Havana, Cuba in 2021."
     },
 
     {
         "id": 25,
-        "img":"https://img.youtube.com/vi/rmhaYk0baXQ/hqdefault.jpg",
-        "title":"Momentos Starbucks con Fredo y el crew",
-        "genre":"(Advertisement)",
-        "video":"https://www.youtube.com/embed/rmhaYk0baXQ",
-        "role":"Sound Mixer",
-        "description":"Starbucks promotional video for the 25th anniversary of the Latin Grammys."
-    },
-
-    {
-        "id": 26,
-        "img":"https://img.youtube.com/vi/OnYCBfulLNQ/hqdefault.jpg",
-        "title":"Djeep Lighters Dj Khaled Ignite your Passion",
-        "genre":"(Advertisement)",
-        "video":"https://www.youtube.com/embed/OnYCBfulLNQ",
-        "role":"Sound Mixer",
-        "description":"Included video in the Djeep packaging for new users. It features Dj Khaled and serves as an introduction to the brand. No product demonstration — just a welcome message."
-    },
-
-    {
-        "id": 27,
         "img":"https://img.youtube.com/vi/rYtAaHiolzg/hqdefault.jpg",
         "portrait": true,
         "title":"Shop Yahaira",
@@ -243,17 +253,7 @@ export const data =[
     },
 
     {
-        "id": 28,
-        "img":"https://img.youtube.com/vi/ZBsKQ2S0_ZM/hqdefault.jpg",
-        "title":"TopSpin 2K25",
-        "genre":"(Advertisement)",
-        "video":"https://www.youtube.com/embed/ZBsKQ2S0_ZM",
-        "role":"Sound Mixer",
-        "description":"Ad for the PlayStation game TopSpin 2K25."
-    },
-
-    {
-        "id": 29,
+        "id": 26,
         "img":"https://img.youtube.com/vi/fV8VlVP9KjA/hqdefault.jpg",
         "title":"Vamos Travelling",
         "genre":"(Travel Series)",
@@ -263,7 +263,7 @@ export const data =[
     },
 
     {
-        "id": 21,
+        "id": 27,
         "img":"https://img.youtube.com/vi/VSFXhakiFCw/hqdefault.jpg",
         "title":"Know Me",
         "genre":"(Drama)",
@@ -273,7 +273,7 @@ export const data =[
     },
 
     {
-        "id": 22,
+        "id": 28,
         "img":"https://img.youtube.com/vi/P_yeWY0b_RE/hqdefault.jpg",
         "title":"Ethan Bloom",
         "genre":"(Comedy-Drama)",
@@ -283,7 +283,7 @@ export const data =[
     },
 
     {
-        "id": 23,
+        "id": 29,
         "img":"https://img.youtube.com/vi/drJD43vgLnM/hqdefault.jpg",
         "title":"Mountains",
         "genre":"(Drama)",
