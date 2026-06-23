@@ -252,6 +252,16 @@ export const data =[
     },
 
     {
+        "id": 29,
+        "img":"https://img.youtube.com/vi/fV8VlVP9KjA/hqdefault.jpg",
+        "title":"Vamos Travelling",
+        "genre":"(Travel Series)",
+        "video":"https://www.youtube.com/embed/fV8VlVP9KjA",
+        "role":"Sound Mixer",
+        "description":"LatiNation's all-new travel series taking viewers on an adventure to diverse destinations worldwide, ideal for today's culturally motivated Latino travelers. Hosts Alejandro and Gabriela journey to family-friendly locations uncovering must-see attractions, hidden gems, and delectable cuisine — filled with fun facts, travel hacks, and tips for the modern Latino explorer."
+    },
+
+    {
         "id": 21,
         "img":"https://img.youtube.com/vi/VSFXhakiFCw/hqdefault.jpg",
         "title":"Know Me",
