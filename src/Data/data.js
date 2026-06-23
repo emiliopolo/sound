@@ -212,6 +212,16 @@ export const data =[
     },
 
     {
+        "id": 25,
+        "img":"https://img.youtube.com/vi/rmhaYk0baXQ/hqdefault.jpg",
+        "title":"Momentos Starbucks con Fredo y el crew",
+        "genre":"(Advertisement)",
+        "video":"https://www.youtube.com/embed/rmhaYk0baXQ",
+        "role":"Sound Mixer",
+        "description":"Starbucks promotional video for the 25th anniversary of the Latin Grammys."
+    },
+
+    {
         "id": 21,
         "img":"https://img.youtube.com/vi/VSFXhakiFCw/hqdefault.jpg",
         "title":"Know Me",
