@@ -234,6 +234,7 @@ export const data =[
     {
         "id": 27,
         "img":"https://img.youtube.com/vi/rYtAaHiolzg/hqdefault.jpg",
+        "portrait": true,
         "title":"Shop Yahaira",
         "genre":"(Advertisement)",
         "video":"https://www.youtube.com/embed/rYtAaHiolzg",
