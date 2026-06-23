@@ -232,6 +232,16 @@ export const data =[
     },
 
     {
+        "id": 27,
+        "img":"https://img.youtube.com/vi/rYtAaHiolzg/hqdefault.jpg",
+        "title":"Shop Yahaira",
+        "genre":"(Advertisement)",
+        "video":"https://www.youtube.com/embed/rYtAaHiolzg",
+        "role":"Sound Mixer",
+        "description":"Branding ad for Shop Yahaira body shapers."
+    },
+
+    {
         "id": 21,
         "img":"https://img.youtube.com/vi/VSFXhakiFCw/hqdefault.jpg",
         "title":"Know Me",
