@@ -222,6 +222,16 @@ export const data =[
     },
 
     {
+        "id": 26,
+        "img":"https://img.youtube.com/vi/OnYCBfulLNQ/hqdefault.jpg",
+        "title":"Djeep Lighters Dj Khaled Ignite your Passion",
+        "genre":"(Advertisement)",
+        "video":"https://www.youtube.com/embed/OnYCBfulLNQ",
+        "role":"Sound Mixer",
+        "description":"Included video in the Djeep packaging for new users. It features Dj Khaled and serves as an introduction to the brand. No product demonstration — just a welcome message."
+    },
+
+    {
         "id": 21,
         "img":"https://img.youtube.com/vi/VSFXhakiFCw/hqdefault.jpg",
         "title":"Know Me",
