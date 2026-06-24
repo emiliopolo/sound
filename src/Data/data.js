@@ -137,7 +137,7 @@ export const data =[
         "title":"Fifth List (Lista Quinta)",
         "genre":"(Documentary)",
         "video":"https://www.youtube.com/embed/ukocG2MTEY8",
-        "role":"Sound Mixer and Score Composer",
+        "role":"Sound Mixer, Sound Designer and Score Composer",
         "description":"Cuban fishermen attempt to balance their life source with environmental changes"
     },
 
