@@ -93,7 +93,6 @@ export const data =[
     {
         "id": 10,
         "img":"https://img.youtube.com/vi/ZBsKQ2S0_ZM/hqdefault.jpg",
-        "portrait": true,
         "title":"TopSpin 2K25",
         "genre":"(Advertisement)",
         "video":"https://www.youtube.com/embed/ZBsKQ2S0_ZM",
