@@ -268,7 +268,7 @@ export const data =[
         "title":"Alien Conquest Weapon Assembler | FMOD / Unity | Final Project (Berklee Online)",
         "genre":"(Game Audio)",
         "video":"https://www.youtube.com/embed/lqF7JS9h0Is",
-        "role":"Sound Designer / Foley Artist",
+        "role":"Sound Designer / Foley Artist / Score Composer",
         "description":"Final project for Game Audio 101, part of Berklee Online's certification program. All audio — music, ambience, dialogue, and background birds and bugs — is original and created from scratch. Foley techniques were used to generate realistic textures, sound synthesis for musical and atmospheric elements, and raw audio was recorded, edited, and processed."
     },
 
@@ -288,7 +288,7 @@ export const data =[
         "title":"Interactive Ship Engine Sound Design | FMOD Implementation Exercise",
         "genre":"(Game Audio)",
         "video":"https://www.youtube.com/embed/YsO5wOB_esA",
-        "role":"Sound Designer",
+        "role":"Sound Designer / Score Composer",
         "description":"An FMOD implementation exercise in which previously created audio assets were integrated into an interactive project. Four referenced events — music, alarm, computer startup, and computer shutdown — were nested within a main ship engine event, controlled by three parameters: speed, load, and health. Pitch automation was applied to the speed parameter to simulate rising RPM, making the ship feel responsive and alive through real-time audio behavior."
     },
 
