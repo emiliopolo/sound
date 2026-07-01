@@ -263,6 +263,36 @@ export const data =[
     },
 
     {
+        "id": 30,
+        "img":"https://img.youtube.com/vi/lqF7JS9h0Is/hqdefault.jpg",
+        "title":"Alien Conquest Weapon Assembler | FMOD / Unity | Final Project (Berklee Online)",
+        "genre":"(Game Audio)",
+        "video":"https://www.youtube.com/embed/lqF7JS9h0Is",
+        "role":"Sound Designer / Foley Artist",
+        "description":"Final project for Game Audio 101, part of Berklee Online's certification program. All audio — music, ambience, dialogue, and background birds and bugs — is original and created from scratch. Foley techniques were used to generate realistic textures, sound synthesis for musical and atmospheric elements, and raw audio was recorded, edited, and processed."
+    },
+
+    {
+        "id": 31,
+        "img":"https://img.youtube.com/vi/bhCv7N16V78/hqdefault.jpg",
+        "title":"Unity Stealth Project | Game Audio 101",
+        "genre":"(Game Audio)",
+        "video":"https://www.youtube.com/embed/bhCv7N16V78",
+        "role":"Score Composer / Sound Designer",
+        "description":"One of the first assignments in Game Audio 101. The goal was to compose two distinct music pieces, each describing a specific in-game event: a stealth track for moments of caution and tension, and a panic track for urgency and danger. Beyond the music, the entire soundscape was created from scratch — every footstep, interface beep, and ambient layer designed to respect the sci-fi tone of the level's visual design."
+    },
+
+    {
+        "id": 32,
+        "img":"https://img.youtube.com/vi/YsO5wOB_esA/hqdefault.jpg",
+        "title":"Interactive Ship Engine Sound Design | FMOD Implementation Exercise",
+        "genre":"(Game Audio)",
+        "video":"https://www.youtube.com/embed/YsO5wOB_esA",
+        "role":"Sound Designer",
+        "description":"An FMOD implementation exercise in which previously created audio assets were integrated into an interactive project. Four referenced events — music, alarm, computer startup, and computer shutdown — were nested within a main ship engine event, controlled by three parameters: speed, load, and health. Pitch automation was applied to the speed parameter to simulate rising RPM, making the ship feel responsive and alive through real-time audio behavior."
+    },
+
+    {
         "id": 27,
         "img":"https://img.youtube.com/vi/VSFXhakiFCw/hqdefault.jpg",
         "title":"Know Me",
